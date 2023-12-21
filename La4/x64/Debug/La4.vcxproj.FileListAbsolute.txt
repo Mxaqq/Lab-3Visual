@@ -1,0 +1,4 @@
+C:\Users\golov\source\repos\La4\La4\x64\Debug\La4.vcxproj.AssemblyReference.cache
+C:\Users\golov\source\repos\La4\La4\x64\Debug\La4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\golov\source\repos\La4\La4\x64\Debug\La4.MyForm.resources
+C:\Users\golov\source\repos\La4\La4\x64\Debug\La4.vcxproj.GenerateResource.cache
